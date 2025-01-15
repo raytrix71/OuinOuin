@@ -1,0 +1,16 @@
+{
+  "name": "Dario's DEV",
+  "subtitle": "Apps Developped by Dario",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://github.com/raytrix71/OuinOuin/blob/main/OuiOui%20baguette.png?raw=true",
+  "headerURL": "https://github.com/raytrix71/OuinOuin/blob/main/OuiOui%20baguette.png?raw=true",
+  "website": "https://github.com/raytrix71/OuinOuin/tree/main",
+  "patreonURL": "https://github.com/raytrix71/OuinOuin/tree/main",
+  "tintColor": "#e69138",
+  "featuredApps": [
+    "com.example.myapp",
+    "com.example.anotherapp"
+  ],
+  "apps": [],
+  "news": []
+}
