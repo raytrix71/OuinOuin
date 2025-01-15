@@ -8,9 +8,16 @@
   "patreonURL": "https://github.com/raytrix71/OuinOuin/tree/main",
   "tintColor": "#e69138",
   "featuredApps": [
-    "com.example.myapp",
-    "com.example.anotherapp"
-  ],
-  "apps": [],
+    "com.example.fakeapp"
+],
+  "apps": [{
+    "id": "com.example.fakeapp",
+    "name": "Fake App",
+    "version": "1.0",
+    "developer": "Dario",
+    "description": "This is a fake app for demonstration purposes.",
+    "iconURL": "https://example.com/fakeapp-icon.png",
+    "downloadURL": "https://example.com/fakeapp-download.zip"
+  }],
   "news": []
 }
